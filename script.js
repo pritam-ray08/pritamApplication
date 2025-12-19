@@ -1,6 +1,6 @@
 // Sample product data
 const products = [
-  { id: 1, title: "Calathea Roseopicta", price: 150, image: "../assets/images/1.png" },
+  { id: 1, title: "Calathea Roseopicta", price: 150, image: "assets/images/1.png" },
   { id: 2, title: "Chinese Evergreen", price: 150, image: "assets/images/2.png" },
   { id: 3, title: "Jade Plant", price: 150, image: "assets/images/3.png" },
   { id: 4, title: "Calathea Freddie", price: 150, image: "assets/images/4.png" },
@@ -173,5 +173,6 @@ function init() {
 }
 
 init();
+
 
 
