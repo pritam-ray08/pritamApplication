@@ -1,0 +1,9 @@
+src/
+├── App.jsx
+├── App.css
+├── components/
+│   ├── AboutUs.jsx
+│   ├── ProductList.jsx
+│   └── CartItem.jsx
+└── redux/
+    └── CartSlice.jsx
